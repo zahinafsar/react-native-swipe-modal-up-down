@@ -47,7 +47,7 @@ import SwipeUpDownModal from 'react-native-swipe-modal-up-down';
     </View>
   }
   onClose={() => {
-      setModelComment(false);
+      setShowModelComment(false);
       setanimateModal(false);
   }}
 />
